@@ -1,7 +1,7 @@
 <?php header('Content-Type: application/json');
 
 
-$write_servername = 'inventory-db-instance-2.cuhtar1fd1yc.us-west-1.rds.amazonaws.com';
+$write_servername = 'inventory-db-instance-1.cuhtar1fd1yc.us-west-1.rds.amazonaws.com';
 $read_servername = 'inventory-db-instance-2.cuhtar1fd1yc.us-west-1.rds.amazonaws.com';
 $username = 'master';
 $password = 'lab-password';
